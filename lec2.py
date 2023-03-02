@@ -31,3 +31,5 @@ my_num = 123
 my_num = 234
 print(my_num)
 
+demo_list = [1,2,3]
+demo_list.reverse()
